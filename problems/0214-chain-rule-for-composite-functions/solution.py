@@ -14,8 +14,8 @@ def compute_chain_rule_gradient(functions: list[str], x: float) -> float:
 		Derivative value at x
 	
 	Example:
-		['sin', 'square'] represents sin(x²)
-		['exp', 'sin', 'square'] represents exp(sin(x²))
+		['sin', 'square'] represents sin(xÂ²)
+		['exp', 'sin', 'square'] represents exp(sin(xÂ²))
 	"""
 	last_func = functions[-1]
 	if last_func == 'sin':
