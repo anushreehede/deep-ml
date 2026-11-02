@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T20:20:50.521Z",
+  "generated_at": "2026-11-02T20:35:23.833Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -470,6 +470,17 @@
       "last_pushed_at": "2026-11-02T20:20:49.914Z",
       "language": "python",
       "lines": 8
+    },
+    "math:275": {
+      "kind": "math",
+      "id": "275",
+      "title": "NDCG: Gains, Log Discounts and Why It Is Not AUC",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/275",
+      "path": "math/0275-ndcg-gains-log-discounts-and-why-it-is-not-auc",
+      "first_solved_at": "2026-11-02T20:35:23.165Z",
+      "last_pushed_at": "2026-11-02T20:35:23.165Z"
     }
   }
 }
