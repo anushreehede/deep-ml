@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 27 problems · 0 labs · 13 math
+**41** solved · 28 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-27 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-11-02 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-27 | [solution](problems/0002-transpose-of-a-matrix) |
+| [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-11-03 | [solution](problems/0090-bm25-ranking) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-29 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-28 | [solution](problems/0334-cholesky-decomposition) |
 | [Dot Product of Two Sparse Vectors](https://www.deep-ml.com/problems/1163) | medium | 2026-11-02 | [solution](problems/1163-dot-product-of-two-sparse-vectors) |
