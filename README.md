@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 28 problems · 0 labs · 14 math
+**43** solved · 29 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-10-27 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-11-02 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-29 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-11-09 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-27 | [solution](problems/0083-dot-product-calculator) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-10-29 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2026-11-02 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
