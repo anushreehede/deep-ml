@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**54** solved · 39 problems · 0 labs · 15 math
+**55** solved · 40 problems · 0 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-10-28 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-27 | [solution](problems/0009-matrix-times-matrix) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-11-02 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
+| [Ordinal Encoding for Categorical Features](https://www.deep-ml.com/problems/843) | medium | 2026-11-11 | [solution](problems/0843-ordinal-encoding-for-categorical-features) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-10-29 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-11-11 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-11-02 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
